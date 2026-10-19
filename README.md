@@ -20,4 +20,4 @@ A minimal to-do list app built with HTML, CSS and vanilla JavaScript.
 2. Open `index.html` in your browser, or use the Live Server extension in VS Code.
 
 ## Live Demo
-https://sadeea2005.github.io/quanta/
+https://sadeea2005.github.io/Quanta/
